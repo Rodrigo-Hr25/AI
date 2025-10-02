@@ -18,13 +18,9 @@ open 3 terminals:
 
 `$ python3 viewer.py`
 
-`$ python3 client.py`
+`$ python3 Student.py`
 
-to play using the sample client make sure the client pygame hidden window has focus
-
-### Keys
-
-Directions: arrows
+to play using the sample Student make sure the Student pygame hidden window has focus
 
 ## Debug Installation
 
