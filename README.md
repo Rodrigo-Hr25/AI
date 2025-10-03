@@ -37,13 +37,7 @@ open 3 terminals:
 
 `$ python3 viewer.py`
 
-`$ python3 client.py`
-
-to play using the sample client make sure the client pygame hidden window has focus
-
-### Keys
-
-Directions: arrows
+`$ python3 Slient.py`
 
 ## Debug Installation
 
