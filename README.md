@@ -1,13 +1,32 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rnI3I4bM)
-# ia-snakes
-Snakes clone for AI teaching
+# IA-Snakes – Snakes Clone for AI Teaching
 
-## How to install
+## 📌 Description
 
-Make sure you are running Python 3.11.
+**IA-Snakes** is a Python-based clone of the classic Snake game, developed to facilitate the teaching of Artificial Intelligence (AI) concepts. The project is designed to provide a hands-on environment where students can implement and test AI algorithms in a controlled setting.
 
-`$ pip install -r requirements.txt`
+## 🧠 Purpose
 
+The primary goal of this project is to serve as an educational tool for AI courses, allowing students to:
+
+- Understand and implement basic AI algorithms.
+- Experiment with AI techniques in a game-based environment.
+- Analyze and improve AI performance through practical exercises.
+
+## ⚙️ Technologies Used
+
+- **Python 3.11**: Programming language used for development.
+- **Pygame**: Library for creating the game interface and handling graphics.
+- **AI Algorithms**: Various AI techniques implemented for game strategy.
+
+## 🚀 How to Run
+
+1. **Install dependencies**:
+
+   Ensure you have Python 3.11 installed. Then, install the required packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 *Tip: you might want to create a virtualenv first*
 
 ## How to play
@@ -18,9 +37,13 @@ open 3 terminals:
 
 `$ python3 viewer.py`
 
-`$ python3 Student.py`
+`$ python3 client.py`
 
-to play using the sample Student make sure the Student pygame hidden window has focus
+to play using the sample client make sure the client pygame hidden window has focus
+
+### Keys
+
+Directions: arrows
 
 ## Debug Installation
 
