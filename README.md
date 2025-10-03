@@ -47,3 +47,23 @@ python -m pygame.examples.aliens
 
 # Tested on:
 - MacOS 15.0.1
+
+
+## 🧩 Game Components
+
+- **server.py**: Manages game logic and state.  
+- **viewer.py**: Handles graphical interface and rendering.  
+- **Student.py**: Contains the AI implementation for controlling the snake.  
+- **game.py**: Core game mechanics and rules.  
+- **mapa.py**: Defines the game map and environment.  
+- **consts.py**: Stores constants used throughout the game.  
+- **requirements.txt**: Lists required Python packages.  
+
+## 🎓 Educational Value
+
+IA-Snakes provides an interactive platform for students to:
+
+- Implement AI algorithms such as search algorithms, decision trees, and reinforcement learning.  
+- Analyze performance of AI strategies in a dynamic environment.  
+- Develop problem-solving and critical thinking skills through game-based learning.
+
